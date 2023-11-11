@@ -6,4 +6,4 @@ This project was done during my internship in this company. However, it may have
 
 Note: Unfortunately, this project did not reach the implementation phase.
 
-The technologies that are used in this project: C#, Entity Framework, Asp.﻿Net Webform, MSSQL Server 2014, HTML, CSS, Bootstrap
+The technologies that are used in this project: C#, Entity Framework, Asp.﻿Net WebForm, MSSQL Server 2014, HTML, CSS, Bootstrap
