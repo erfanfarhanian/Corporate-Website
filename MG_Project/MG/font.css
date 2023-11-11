@@ -1,0 +1,23 @@
+﻿@font-face {
+    font-family: "BYek";
+    src: url("fonts/byekan.eot");
+    src: url("fonts/byekan.eot") format("embedded-opentype"), url("fonts/byekan.woff") format("woff"), url("fonts/byekan.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "BNaz";
+    src: url("fonts/bnazanin.eot");
+    src: url("fonts/bnazanin.eot") format("embedded-opentype"), url("fonts/bnazanin.woff") format("woff"), url("fonts/bnazanin.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "BNazBold";
+    src: url("fonts/bnazanb.eot");
+    src: url("fonts/bnazanb.eot") format("embedded-opentype"), url("fonts/bnazanb.woff") format("woff"), url("fonts/bnazanb.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
