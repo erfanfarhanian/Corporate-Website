@@ -2,7 +2,7 @@
 
 Designing and re-implementing the intranet website of Mahab Qudss company with features such as displaying the latest news, company events gallery, access to organizational documents, design and development of dashboard and admin panel, user authentication with sessions, etc.
 
-This project was done during my internship in this company. However, it may have some flaws that need to be fixed.
+This project was done during my internship in this company. However, it may has some flaws that need to be fixed.
 
 Note: Unfortunately, this project did not reach the implementation phase.
 
